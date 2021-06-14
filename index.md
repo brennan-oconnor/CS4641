@@ -2,6 +2,9 @@
 
 **Team Members:** Alea Legg, Brennan Oconnor, Emma Verret, Mark Wetherly
 
+![Infographic](/Desktop/Info.png)
+Format: ![Alt Text](url)
+
 ### Introduction/Background
 We aim to improve accuracy  and reduce costs associated with human inspection by using machine learning to identify tumors 
 
