@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Predicting Whether a Patient Has a Brain Tumor From a Brain Scan
 
-You can use the [editor on GitHub](https://github.com/alealegg/CS4641/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Team Members:** Alea Legg, Brennan Oconnor, Emma Verret, Mark Wetherly
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction/Background
+We aim to improve accuracy  and reduce costs associated with human inspection by using machine learning to identify tumors 
 
-### Markdown
+### Methods
+We are utilizing a dataset of 4600 X-ray scans of the human brain with and without tumors (45% / 55% split) and techniques such as image segmentation and soft clustering.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Results
+We hope to develop a model that analyzes images to correctly indicate the presence of tumors
 
-```markdown
-Syntax highlighted code block
+### Discussion
+If a model could accurately determine the presence of a brain tumor, healthcare workflows could experience significant boosts in speed and efficiency
+A perfect next step would be an AI that could identify the type of tumor and list recommended treatment based on the tumor type
 
-# Header 1
-## Header 2
-### Header 3
+### References
+1. Brain Tumor Detection based on Machine Learning Algorithms
+2. Conditional spatial fuzzy C-means clustering algorithm for segmentation of MRI images
+3. A Hybrid CNN- GLCM Classifier for Detection and Grade Classification of Brain Tumor
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alealegg/CS4641/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
