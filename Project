@@ -1,7 +1,9 @@
+#Infographic
+![Infographic](/desktop/Untitled.png)
+Format: ![Alt Text](url)
+
 #Introduction/Background
 We aim to improve accuracy  and reduce costs associated with human inspection by using machine learning to identify tumors 
-
-#Infographic
 
 #Methods
 We are utilizing a dataset of 4600 X-ray scans of the human brain with and without tumors (45% / 55% split) and techniques such as image segmentation and soft clustering.
