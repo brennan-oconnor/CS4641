@@ -3,7 +3,6 @@
 **Team Members:** Alea Legg, Brennan Oconnor, Emma Verret, Mark Wetherly
 
 ![Info](https://user-images.githubusercontent.com/31289084/121968442-573abb80-cd40-11eb-89e1-f002ce4db711.png)
-Format: ![Alt Text](url)
 
 ### Introduction/Background
 We aim to improve accuracy  and reduce costs associated with human inspection by using machine learning to identify tumors 
