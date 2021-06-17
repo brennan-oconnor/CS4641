@@ -9,10 +9,19 @@ We aim to improve accuracy  and reduce costs associated with human inspection b
 We are utilizing a dataset of 4600 X-ray scans of the human brain with and without tumors (45% / 55% split) and techniques such as image segmentation and soft clustering.
 
 #Results
-We hope to develop a model that analyzes images to correctly indicate the presence of tumors
+We hope to develop a model that analyzes images to correctly indicate the presence of tumors. Binary classification will indicate whether a tumor is present or not.
 
 #Discussion:
-If a model could accurately determine the presence of a brain tumor, healthcare workflows could experience significant boosts in speed and efficiency
-A perfect next step would be an AI that could identify the type of tumor and list recommended treatment based on the tumor type
+If a model could accurately determine the presence of brain tumors, healthcare workflows would experience significant boosts in speed and efficiency. With a high volume
+of scans entering the pipeline every day, radiologists and other medical professionals often find themselves overwhelmed, especially in situations where budget cuts 
+lead to understaffing. An AI specializing in brain scans would certainly alleviate bottlenecks that occur in the diagnostic process, primarily through the ability to
+produce potentially quicker and more accurate diagnoses than a certified doctor could. Consequently, this would expand doctors' bandwidth and allow them more time to
+focus on non-brain scans, knowing that the brain-related scans would be handled by an AI. 
+
+Perhaps most importantly, a successful implementation of such an AI would encourage healthcare experts to explore future applications of machine learning that could
+improve diagnostic medicine. For instance, an upgraded version of this project's AI might identify tumor types and suggest recommended treatment options based on the
+tumor type. To prevent machine learning from completely eliminating current jobs, AIs could simply be designed to analyze doctors' reports and flag any where the diagnosis
+doesn't match the AI's diagnosis. Doing this before delivering results to patients would save time, money, and resources that would otherwise go towards handling false
+diagnoses.
 
 #References
