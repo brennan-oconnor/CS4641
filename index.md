@@ -35,7 +35,7 @@ These literary references will help us decide which algorithms and models to use
    
     Background on GLCM : 
     
-        Basically it calculates how often a pixel with a specific gray color value (aka tone) occurs in different directions adjacent to pixels with a different specific tone.           
+    Basically it calculates how often a pixel with a specific gray color value (aka tone) occurs in different directions adjacent to pixels with a different specific tone.           
     Based on this data, the researchers could then classify whether the tumor is benign or malignant. 
     
 2. Conditional spatial fuzzy C-means clustering algorithm for segmentation of MRI images
@@ -44,7 +44,7 @@ These literary references will help us decide which algorithms and models to use
     
     A bit more on FCM : 
     
-        It is similar to K-means, however, in the case of FCM, a data point can belong to more than one cluster with a likelihood, and it is soft clustering. The researchers also use an upgraded version – conditional spatial fuzzy c-means (csFCM) in their research.
+    It is similar to K-means, however, in the case of FCM, a data point can belong to more than one cluster with a likelihood, and it is soft clustering. The researchers also use an upgraded version – conditional spatial fuzzy c-means (csFCM) in their research.
     
 3. A Hybrid CNN- GLCM Classifier for Detection and Grade Classification of Brain Tumor
 
